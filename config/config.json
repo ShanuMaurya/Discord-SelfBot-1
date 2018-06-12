@@ -1,12 +1,12 @@
 {
-  "token": "Your discord token",
-  "ownerID": "Your Discord ID",
+  "token": "NDAwMzU5MTExODM0ODYxNTY4.DZU02Q.yb7ul6YBPSIs8d97UZEp937ppI8",
+  "ownerID": "400359111834861568",
   "prefix": "-",
   "rotatePlayingGame": true,
   "rotatePlayingGameTime" : 150000,
-  "rotatePlayingGameInStreamingStatus": false,
+  "rotatePlayingGameInStreamingStatus": true,
   "rotateAvatarImage": true,
-  "rotateAvatarImageTime" : 600000,
+  "rotateAvatarImageTime" : 120,
   "defaultStatus": "idle",
   "PSN": {
     "enabled": true,
